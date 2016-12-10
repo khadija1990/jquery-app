@@ -1,0 +1,25 @@
+{
+  "name": "simple design",
+  "homepage": "https://github.com/khadija1990/jquery-app",
+  "authors": [
+    "khadija 1990 <kharchoufikhadija@gmail.com>"
+  ],
+  "description": "jquery",
+  "main": "index.html",
+  "keywords": [
+    "html"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "font-awesome": "Font-Awesome#^4.7.0"
+  }
+}
