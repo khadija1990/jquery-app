@@ -1,5 +1,6 @@
 #ignore bower components  
 
-bower_components
-
+bower_components/bootstrap/*
+!bower_components/bootstrap/dist/*
+bower_components/bootstrap/dist/css/*.map
 node_modules
