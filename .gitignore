@@ -1,2 +1,5 @@
-#ignore bower components
+#ignore bower components  
+
 bower_components
+
+node_modules
